@@ -11,7 +11,3 @@ def best_practice():
     _string.best_practice_string()
     _number.best_practice_number()
     _list.best_practice_list()
-
-
-if __name__ == '__main__':
-    best_practice()
